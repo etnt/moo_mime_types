@@ -1,0 +1,8 @@
+Generates a moo_mime_types.erl module.
+The idea and the mime.types file is stolen from Yaws.
+
+Usage:
+
+  moo_mime_types:t("json")  -->   "application/json"
+
+
