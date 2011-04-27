@@ -1,0 +1,8 @@
+%% This is generated from src/mochiweb.app.src
+{application, moo_mime_types,
+ [{description, "File suffix to mime type."},
+  {vsn, "1.0"},
+  {modules, []},
+  {registered, []},
+  {env, []},
+  {applications, [kernel, stdlib]}]}.
